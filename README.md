@@ -49,7 +49,6 @@
 | **[CSR vs. SSR Benchmark](https://github.com/Kavis2004)** | Core Web Vitals (FCP, LCP, CLS, TTFB, INP) & SEO study comparing React (Vite) vs. Next.js. | `React` `Vite` `Next.js` `Web Vitals` |
 | **[Enterprise Web App](https://github.com/Kavis2004)** | Backend APIs, authentication, and relational database integration. | `Java` `Spring Boot` `React` `MySQL` |
 
-> **Tip:** On your GitHub profile page, click **Customize your pins** right below the README to display native GitHub project cards with live stars and languages.
 
 ---
 
