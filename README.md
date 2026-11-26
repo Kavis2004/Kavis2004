@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Animated Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kavishka+Madushan+%F0%9F%91%8B;Full-Stack+Java+%26+React+Developer;Cybersecurity+Enthusiast+%7C+Sri+Lanka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8¢er=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kavishka+Madushan+%F0%9F%91%8B;Full-Stack+Java+%26+React+Developer;Cybersecurity+Enthusiast+%7C+Sri+Lanka" alt="Typing SVG" />
   </a>
 
-  <!-- Quick Links + Total Repos, Stars & Profile Views Badges -->
+  <!-- Live Top Badges (Never Break) -->
   <p align="center">
     <a href="https://kavishka.work.gd" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-kavishka.work.gd-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
     </a>
     <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Stars%20Got" alt="Stars Got" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=10B981&label=Followers" alt="Followers" />
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   </p>
 
@@ -45,12 +46,12 @@
 
 <div align="center">
 
-  <!-- Interactive GitHub Repo Cards (Automatically display Stars, Forks & Language) -->
+  <!-- Reliable Repo Pin Cards -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">
-    <img height="135em" src="https://github-stats-extended.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">
-    <img height="135em" src="https://github-stats-extended.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 
 </div>
@@ -58,7 +59,7 @@
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | **[Personal Portfolio](https://kavishka.work.gd)** | Live portfolio site showcasing full-stack & security work. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` |
-| **[CSR vs. SSR Benchmark](#)** | Core Web Vitals (FCP, LCP, CLS, TTFB, INP) & SEO study comparing React (Vite) vs. Next.js. | `React` `Vite` `Next.js` `Web Vitals` |
+| **[CSR vs. SSR Benchmark](https://github.com/YOUR_GITHUB_USERNAME)** | Core Web Vitals (FCP, LCP, CLS, TTFB, INP) & SEO study comparing React (Vite) vs. Next.js. | `React` `Vite` `Next.js` `Web Vitals` |
 
 ---
 
@@ -66,11 +67,9 @@
 
 <div align="center">
 
-  <!-- GitHub Analytics Card (Shows Total Stars Got, Total Commits, PRs, Issues & Contributions) -->
-  <img height="185em" src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Analytics" />
-
-  <!-- Top Languages by Repo & Commit -->
-  <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Analytics & Top Languages (Fast Reliable Mirror) -->
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Analytics" />
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -80,7 +79,6 @@
 
 <div align="center">
 
-  <!-- Total Contributions, Current Streak & Longest Streak -->
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
@@ -91,7 +89,6 @@
 
 <div align="center">
 
-  <!-- Line Graph of Daily Commits & Contributions -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
