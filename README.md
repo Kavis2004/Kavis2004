@@ -2,17 +2,16 @@
 
   <!-- Animated Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8¢er=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kavishka+Madushan+%F0%9F%91%8B;Full-Stack+Java+%26+React+Developer;Cybersecurity+Enthusiast+%7C+Sri+Lanka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kavishka+Madushan+%F0%9F%91%8B;Full-Stack+Java+%26+React+Developer;Cybersecurity+Enthusiast+%7C+Sri+Lanka" alt="Typing SVG" />
   </a>
 
-  <!-- Live Top Badges -->
   <p align="center">
     <a href="https://kavishka.work.gd" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-kavishka.work.gd-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
     </a>
-    <img src="https://img.shields.io/github/stars/Kavis2004?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Stars%20Got" alt="Stars Got" />
-    <img src="https://img.shields.io/github/followers/Kavis2004?style=for-the-badge&logo=github&color=10B981&label=Followers" alt="Followers" />
-    <img src="https://komarev.com/ghpvc/?username=Kavis2004&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Stars%20Got" alt="Stars Got" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=10B981&label=Followers" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -47,8 +46,10 @@
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | **[Personal Portfolio](https://kavishka.work.gd)** | Live portfolio site showcasing full-stack & security work. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` |
-| **[CSR vs. SSR Benchmark](https://github.com/Kavis2004)** | Core Web Vitals (FCP, LCP, CLS, TTFB, INP) & SEO study comparing React (Vite) vs. Next.js. | `React` `Vite` `Next.js` `Web Vitals` |
-| **[Enterprise Web App](https://github.com/Kavis2004)** | Backend APIs, authentication, and relational database integration. | `Java` `Spring Boot` `React` `MySQL` |
+| **[CSR vs. SSR Benchmark](https://github.com/YOUR_GITHUB_USERNAME)** | Core Web Vitals (FCP, LCP, CLS, TTFB, INP) & SEO study comparing React (Vite) vs. Next.js. | `React` `Vite` `Next.js` `Web Vitals` |
+| **[Enterprise Web App](https://github.com/YOUR_GITHUB_USERNAME)** | Backend APIs, authentication, and relational database integration. | `Java` `Spring Boot` `React` `MySQL` |
+
+> **Tip:** On your GitHub profile page, click **Customize your pins** right below the README to display native GitHub project cards with live stars and languages.
 
 ---
 
@@ -57,12 +58,12 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/github/stars/Kavis2004?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Total%20Stars%20Got" alt="Total Stars Got" />
-    <img src="https://img.shields.io/github/followers/Kavis2004?style=for-the-badge&logo=github&color=22C55E&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Total%20Stars%20Got" alt="Total Stars Got" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=22C55E&label=Followers" alt="Followers" />
   </p>
 
   <!-- Streak & Total Contributions Card -->
-  <img src="https://streak-stats.demolab.com?user=Kavis2004&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
@@ -72,6 +73,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavis2004&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
