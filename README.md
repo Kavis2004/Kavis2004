@@ -58,12 +58,12 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Total%20Stars%20Got" alt="Total Stars Got" />
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=22C55E&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Kavis2004?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B&label=Total%20Stars%20Got" alt="Total Stars Got" />
+    <img src="https://img.shields.io/github/followers/Kavis2004?style=for-the-badge&logo=github&color=22C55E&label=Followers" alt="Followers" />
   </p>
 
   <!-- Streak & Total Contributions Card -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kavis2004&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
@@ -73,6 +73,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavis2004&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
